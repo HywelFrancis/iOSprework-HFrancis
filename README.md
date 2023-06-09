@@ -24,17 +24,17 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with native xCode 14.3.1 screen-to-gif-recorder. 
 
 ## App Brainstorming (Step 4)
-
+1. List of my 3 favorite Applications including my favorite 2 features of each:
+- [ ] BALANCE APP: a mediation guidance, scheduling and tracking app. Favorite features: ability to have flexibly-scheduled reminders to meditate, a peruse functions that allows the user to review available meditation types. 
+- [ ] MOON CALENDAR: a moon phase tracking app. Favorite features: push updates for celestial moon events, a calendar feature that allows the user to see future celestial events.
+- [ ] SEASONAL FOOD GUIDE: finds what produce is in season for your state for any time of year. Favorite features: a way to list foods alphabeticalls by state, a search-by-season function. 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+I encoutered an issue with connecing the colorChange button the logic: when I called the function when the button was tapped, I first incorrectly assigned the function variable inside the override function, but the issue was resolved when I correctly called the function in the IBAction function instead. 
 
 ## License
 
