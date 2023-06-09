@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![Simulator Screen Recording - iphone 12 mini - 2023-06-09 at 15 04 53](https://github.com/HywelFrancis/iOSprework-HFrancis/assets/92697786/a3336413-db82-4810-ad47-b3e597a1aed4)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
