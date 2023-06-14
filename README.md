@@ -28,7 +28,7 @@ GIF created with native xCode 14.3.1 screen-to-gif-recorder.
 
 ## App Brainstorming (Step 4)
 1. List of my 3 favorite Applications including my favorite 2 features of each:
-- [ ] BALANCE APP: a mediation guidance, scheduling and tracking app. Favorite features: ability to have flexibly-scheduled reminders to meditate, a peruse functions that allows the user to review available meditation types. 
+- [ ] BALANCE APP: a mediation guidance, scheduling and tracking app. Favorite features: ability to have flexibly-scheduled reminders to meditate, a peruse function that allows the user to review available meditation types. 
 - [ ] MOON CALENDAR: a moon phase tracking app. Favorite features: push updates for celestial moon events, a calendar feature that allows the user to see future celestial events.
 - [ ] SEASONAL FOOD GUIDE: finds what produce is in season for your state for any time of year. Favorite features: a way to list foods alphabeticalls by state, a search-by-season function. 
 
