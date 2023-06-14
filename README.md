@@ -42,7 +42,7 @@ I encoutered an issue with connecing the colorChange button the logic: when I ca
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [HywelFrancis-CodePath-iOS101preWork]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
