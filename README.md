@@ -30,7 +30,7 @@ GIF created with native xCode 14.3.1 screen-to-gif-recorder.
 1. List of my 3 favorite Applications including my favorite 2 features of each:
 - [ ] BALANCE APP: a mediation guidance, scheduling and tracking app. Favorite features: ability to have flexibly-scheduled reminders to meditate, a peruse function that allows the user to review available meditation types. 
 - [ ] MOON CALENDAR: a moon phase tracking app. Favorite features: push updates for celestial moon events, a calendar feature that allows the user to see future celestial events.
-- [ ] SEASONAL FOOD GUIDE: finds what produce is in season for your state for any time of year. Favorite features: a way to list foods alphabeticalls by state, a search-by-season function. 
+- [ ] SEASONAL FOOD GUIDE: finds what produce is in season for your state for any time of year. Favorite features: a way to list foods alphabetically by state, a search-by-season function. 
 
 2. For this pre-work, I considered an app I would like to build that detects the user's nearest Asteroid at that time. Another app that I would like to build would be an app to use along with parking your car. This app allows a user to see how likley or unlikley certain acts of theft or valdalism are on their vehicle, based on the make, model and year, zip code and street address of parking.  I would like to build a feature to look at the past-recent reported events on vehicles matching their made/model/year, as well as a feature to aggregate the total events on that type of vehicle, at that or nearby locations. I think it would also be a useful feature to organize the pulled data in terms of vehicles in nearby year or style categorires. 
 
